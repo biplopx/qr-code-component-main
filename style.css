@@ -33,7 +33,7 @@ body {
 .card-container .card-info {
   text-align: center;
 }
-.card-container .card-info h2 {
+.card-container .card-info h1 {
   font-size: 24px;
   margin: 20px 0;
   font-weight: 700;
